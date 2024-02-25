@@ -447,7 +447,8 @@ text-align:center;
         display:block;
     }
     .do-right{
-        width:fit-content;
+        width:100%;
+        height:auto;
     }
     .card-block{
         width:100%;
@@ -455,6 +456,13 @@ text-align:center;
     .section-title{
         padding-bottom:0;
     }
-
+.advantages{
+    height:fit-content;
 }
-Fix the image in the What we do section, you need to select .do-right and fix the values of width and height(+), fix the service cards + you may try to fix the Advantages section (it has a fixed height, and it shouldn't, and also there is no need for absolute positioning  for the cards container)
+.advantages-content{
+    position:relative;
+}
+.container{
+    padding:20px;
+}
+}
