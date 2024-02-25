@@ -1,0 +1,12 @@
+Objective: To finish the landing page and to make it work well on mobile devices and tablets. 
++	To check the homework
++	To revise
++	To create the content for the “What are our advantages?” section
++	To style the section
++	To create and style the background for the “What are our advantages?” section
++	To create and style the portfolio page (without the responsive module) 
++	To finish the website. The Contact page and links
+-	To learn about the concept of responsive web design, Developer Tools and the <meta> tag
+-	To learn about responsive media and max/min-width/height
+-	To conclude
+-	To give homework
